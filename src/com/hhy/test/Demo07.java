@@ -8,5 +8,7 @@ public class Demo07 {
         System.out.println("master");
         System.out.println("hot-fix");
         System.out.println("push");
+        //github官网测试
+        System.out.println("pull拉取测试");
     }
 }
